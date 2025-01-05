@@ -15,7 +15,7 @@ function Hero() {
       {/* Text and Animation Section */}
       <div className="flex flex-col gap-6 md:gap-8 md:justify-self-start">
         <h1 className="text-3xl font-bold md:text-4xl lg:text-5xl leading-tight">
-          <span className="text-[#A594FD]">Hello, I&apos;m Prateek,</span>
+          <span className="text-[#A594FD]">Hello, I&apos;m Prateek</span>
           <br />
           <TypeAnimation
             sequence={[
