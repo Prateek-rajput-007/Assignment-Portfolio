@@ -13,7 +13,7 @@ function AboutMe() {
       <div className="relative z-10 text-center">
         <h1 className="text-4xl font-bold mb-8">About Me</h1>
         <p className="text-lg text-gray-400 leading-relaxed max-w-3xl mx-auto mb-12">
-          I’m Prateek, a MERN stack developer passionate about creating
+          I&apos;m Prateek, a MERN stack developer passionate about creating
           innovative and efficient web applications. Skilled in JavaScript,
           React, and Node.js, I specialize in building user-friendly interfaces
           and optimizing backend operations. I'm driven by curiosity, a love
