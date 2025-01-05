@@ -16,7 +16,7 @@ function AboutMe() {
           I&apos;m Prateek, a MERN stack developer passionate about creating
           innovative and efficient web applications. Skilled in JavaScript,
           React, and Node.js, I specialize in building user-friendly interfaces
-          and optimizing backend operations. I'm driven by curiosity, a love
+          and optimizing backend operations. I&apos;m driven by curiosity, a love
           for learning new technologies, and a commitment to delivering
           high-quality solutions.
         </p>
